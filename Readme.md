@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Child.cs](./CS/WinWebSolution.Module/Child.cs) (VB: [Child.vb](./VB/WinWebSolution.Module/Child.vb))
+* [Master.cs](./CS/WinWebSolution.Module/Master.cs) (VB: [Master.vb](./VB/WinWebSolution.Module/Master.vb))
+* [Neighbour.cs](./CS/WinWebSolution.Module/Neighbour.cs) (VB: [Neighbour.vb](./VB/WinWebSolution.Module/Neighbour.vb))
+<!-- default file list end -->
 # OBSOLETE - How to prevent removing a master record referenced by other records
 
 <p><strong>This solution is obsolete. The best way to validate data in an XAF application is to use the <a href="https://documentation.devexpress.com/eXpressAppFramework/113009/Concepts/Extra-Modules/Validation/Validation-Module">Validation Module</a>. Refer to the <a href="https://documentation.devexpress.com/eXpressAppFramework/DevExpress.Persistent.Validation.RuleIsReferencedAttribute.class">RuleIsReferencedAttribute</a>  article for a recommended solution.</strong><br><br

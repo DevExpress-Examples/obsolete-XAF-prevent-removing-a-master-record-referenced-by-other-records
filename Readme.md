@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Child.cs](./CS/WinWebSolution.Module/Child.cs) (VB: [Child.vb](./VB/WinWebSolution.Module/Child.vb))
+* [Master.cs](./CS/WinWebSolution.Module/Master.cs) (VB: [Master.vb](./VB/WinWebSolution.Module/Master.vb))
+* [Neighbour.cs](./CS/WinWebSolution.Module/Neighbour.cs) (VB: [Neighbour.vb](./VB/WinWebSolution.Module/Neighbour.vb))
+<!-- default file list end -->
 # How to prevent removing a master record referenced by other records
 
 
